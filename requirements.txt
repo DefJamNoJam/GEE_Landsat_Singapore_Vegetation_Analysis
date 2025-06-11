@@ -1,0 +1,8 @@
+geemap
+earthengine-api
+numpy
+pandas
+matplotlib
+folium
+jupyter
+ffmpeg-python
